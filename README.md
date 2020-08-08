@@ -5,7 +5,7 @@ Includes:
 - Get 250k gems
 - Get all weapons
 - Get all clothes
-- Hitbox expander
+- Hitbox expander (called aimbot)
 
 Greetings,
 neo#6969
