@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/neo6969/Mad-paintball-2/master/gui.txt'),true))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/neo0002/Mad-paintball-2/master/gui.txt'),true))()
